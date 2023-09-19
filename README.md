@@ -1,3 +1,3 @@
-# UDEMY - Projetos e Aulas
+Exercícios e Aulas
 -------------------
-Meu progresso em relação ao curso de Javascript e Typescript.
+Progressão de aulas sobre HTML e CSS.
