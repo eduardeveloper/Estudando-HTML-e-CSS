@@ -1,2 +1,3 @@
-# UDEMY Projetos/Estudo
-Meu progresso em relação ao curso Javascript e Typescript da UDEMY
+# UDEMY - Projetos e Aulas
+-------------------
+Meu progresso em relação ao curso de Javascript e Typescript.
